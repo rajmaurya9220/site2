@@ -1,0 +1,6 @@
+/* Black + gold */
+:root{
+  --bg:#faf7ee; --card:#ffffff; --border:#e6dcc0; --text:#1a1a1a; --muted:#6f6648; --soft:#f4ecd0;
+  --primary:#262626; --primary-dark:#111111; --accent:#f5b301; --accent2:#a86f00; --on-accent2:#fff;
+  --ink:#111111; --cover:#0d0d0d;
+}

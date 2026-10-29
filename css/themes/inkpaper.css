@@ -1,0 +1,6 @@
+/* Ink and paper: black ink on warm paper, one fountain-pen blue accent */
+:root{
+  --bg:#f4efe4; --card:#fffdf8; --border:#d9d1bf; --text:#1a1814; --muted:#6a6355; --soft:#ebe4d2;
+  --primary:#1a1814; --primary-dark:#000000; --accent:#c9bfa6; --accent2:#1d3c78; --on-accent2:#fff;
+  --ink:#1a1814; --cover:#14110d;
+}

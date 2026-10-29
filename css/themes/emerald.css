@@ -1,0 +1,6 @@
+/* Emerald green + lime + coral (current) */
+:root{
+  --bg:#f2f9f5; --card:#ffffff; --border:#d3e8dc; --text:#12261c; --muted:#58786a; --soft:#e2f6ea;
+  --primary:#0f9d6b; --primary-dark:#0a6b49; --accent:#a3e635; --accent2:#ff6b57; --on-accent2:#fff;
+  --ink:#0b3d2b; --cover:#082e20;
+}

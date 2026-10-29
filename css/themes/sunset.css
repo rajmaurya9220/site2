@@ -1,0 +1,6 @@
+/* Sunset orange + deep navy */
+:root{
+  --bg:#fff7f0; --card:#ffffff; --border:#f5dcc8; --text:#1b2433; --muted:#7a6652; --soft:#ffe9d6;
+  --primary:#e8590c; --primary-dark:#14305c; --accent:#ffd166; --accent2:#14305c; --on-accent2:#fff;
+  --ink:#0b1b36; --cover:#0b1b36;
+}

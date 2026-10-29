@@ -1,0 +1,6 @@
+/* C# theme: .NET purple on soft lavender-white. Code stickers use VS Code dark colours. */
+:root{
+  --bg:#f6f5fb; --card:#ffffff; --border:#dcd8ee; --text:#1b1737; --muted:#625d86; --soft:#ecebf7;
+  --primary:#512bd4; --primary-dark:#2f1c82; --accent:#c9bdf7; --accent2:#68217a; --on-accent2:#fff;
+  --ink:#1b1340; --cover:#1a1040;
+}

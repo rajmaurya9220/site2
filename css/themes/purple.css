@@ -1,0 +1,6 @@
+/* Royal purple + pink */
+:root{
+  --bg:#f6f2ff; --card:#ffffff; --border:#ddd0fa; --text:#1c1233; --muted:#6b5b95; --soft:#ece4ff;
+  --primary:#7c3aed; --primary-dark:#4c1d95; --accent:#f9a8d4; --accent2:#db2777; --on-accent2:#fff;
+  --ink:#2e1065; --cover:#1e0a45;
+}

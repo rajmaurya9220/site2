@@ -1,0 +1,6 @@
+/* Crimson red + charcoal */
+:root{
+  --bg:#fbf4f4; --card:#ffffff; --border:#ecd4d6; --text:#1f1b1c; --muted:#7a6567; --soft:#fde8ea;
+  --primary:#c81e3a; --primary-dark:#7f1226; --accent:#fda4af; --accent2:#374151; --on-accent2:#fff;
+  --ink:#1f2933; --cover:#15181c;
+}
